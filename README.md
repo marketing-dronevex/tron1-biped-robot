@@ -45,9 +45,6 @@ This repository will serve as documentation and an overview of the capabilities 
 - AI Based Robotic Control Systems
 
 
-![TRON1 Robot](<img width="2048" height="1024" alt="imgi_80_Tronb1-2048x1024" src="https://github.com/user-attachments/assets/af1b6ddb-58c6-49a9-945c-6e73638922c0" />)
-![TRON1 Robot](<img width="1536" height="894" alt="imgi_39_Tronb3-1536x894" src="https://github.com/user-attachments/assets/2d0fa8b8-2ae1-4e86-b4c8-90f0ac3e248a" />)
-
 Learn more about TRON1 here: <https://dronevex.in/product/tron1-limx-dynamics/>
 
 
